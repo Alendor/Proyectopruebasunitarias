@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "chai": "^4.1.2",
     "expres": "0.0.5",
     "express": "^4.16.3"
   },

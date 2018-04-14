@@ -1,4 +1,4 @@
-
+var assert = require('chai').assert;
 var express = require('express');
 var app = express();
 
